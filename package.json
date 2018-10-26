@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "ajv": "^6.0.0",
+    "axios": "^0.18.0",
     "element-ui": "^2.4.8",
     "eslint": "^5.7.0",
     "less": "^3.8.1",
